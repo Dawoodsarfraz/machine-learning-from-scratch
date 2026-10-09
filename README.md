@@ -45,11 +45,11 @@ This project was developed and tested on **Ubuntu (Linux)**, where it is known t
 
 Commands that differ by platform:
 
-| Task | Ubuntu / Linux | macOS | Windows (PowerShell) |
+| Task | Ubuntu / Linux | | |
 |---|---|---|---|
-| Install `uv` | `curl -LsSf https://astral.sh/uv/install.sh \| sh` | `curl -LsSf https://astral.sh/uv/install.sh \| sh` or `brew install uv` | `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 \| iex"` |
-| Activate environment (optional) | `source .venv/bin/activate` | `source .venv/bin/activate` | `.venv\Scripts\activate` |
-| View folder contents | `ls` or `tree` | `ls` | `dir` or `tree /F` |
+| Install `uv` | `curl -LsSf https://astral.sh/uv/install.sh \| sh` |
+| Activate environment (optional) | `source .venv/bin/activate` |
+| View folder contents | `ls` |
 
 `git clone`, `uv sync`, and `uv run` use the same syntax on every platform. Windows and macOS rows above come from the official `uv` documentation and are **untested for this project**.
 
@@ -137,4 +137,4 @@ Email: [dawoodsarfraz.cs@gmail.com](mailto:dawoodsarfraz.cs@gmail.com)
 
 ## License
 
-Add a license of your choice (for example MIT) to clarify how others may use this code.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
