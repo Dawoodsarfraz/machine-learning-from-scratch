@@ -137,4 +137,4 @@ Email: [dawoodsarfraz.cs@gmail.com](mailto:dawoodsarfraz.cs@gmail.com)
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Dawoodsarfraz/machine-learning-from-scratch?tab=MIT-1-ov-file)
